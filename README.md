@@ -1,2 +1,2 @@
 # pikafox
-You're died 
+this is a website for Slakata 
